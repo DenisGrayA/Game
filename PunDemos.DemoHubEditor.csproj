@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1E5EB9E1-AD8D-656B-EE5E-E6D2EF881B90}</ProjectGuid>
+    <ProjectGuid>{97C4686E-2E42-C9D6-CC95-4C301708ABAF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PunDemos.DemoHubEditor</AssemblyName>
@@ -767,11 +767,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{AEC658BE-5E92-56F4-C264-AF0720B30257}</Project>
+      <Project>{4DBA4824-9A09-BDF8-C26C-07F07DE0924D}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{AF15CCEF-46DE-1C5D-4799-3C1E67B850B7}</Project>
+      <Project>{B640E0B0-AADF-6DA0-1D20-FC45790D6BB8}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
   </ItemGroup>
